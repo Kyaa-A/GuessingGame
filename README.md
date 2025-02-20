@@ -1,6 +1,8 @@
 # electron-app
 
-An Electron application with React
+Guessing Game made with Electron
+
+![Image](https://github.com/user-attachments/assets/e44a6dbf-eecc-4ecd-b70b-c6f76e9de949)
 
 ## Recommended IDE Setup
 
